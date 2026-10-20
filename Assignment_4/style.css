@@ -1,0 +1,17 @@
+body {
+    background-color: azure;
+    /* text-align: center; */
+    margin: 10px;
+}
+
+h1 {
+    text-shadow: 2px 2px;
+}
+
+button {
+    background-color:aqua;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+}
